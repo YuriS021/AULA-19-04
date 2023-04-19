@@ -1,4 +1,7 @@
-input(1+2=3)
+x = int(input('informe um número'))
 
-print("se"1+2=3)
+calculo = (x ** 2) + (10 * 5) - 5
+
+print(f'{calculo}')
+
 
